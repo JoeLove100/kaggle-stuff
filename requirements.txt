@@ -1,0 +1,11 @@
+tensorflow
+numpy
+pandas
+lightgbm
+sklearn
+scipy
+hyperopt
+matplotlib
+seaborn
+jupyter
+jupytext
